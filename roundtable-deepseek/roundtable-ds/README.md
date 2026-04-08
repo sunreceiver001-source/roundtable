@@ -25,4 +25,4 @@ npm run dev
 
 背景调研：Claude 版用真实 web search，DeepSeek 版用模型知识生成（标注「待核实」）
 费用：deepseek-chat 约 1元/百万token，极便宜
-注册：国内手机号即可
+注册：国内手机号即可 
